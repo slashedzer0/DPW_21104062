@@ -2,5 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  font-size: 30px;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+  background-color: rgb(26, 214, 104);
 }
